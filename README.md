@@ -35,6 +35,11 @@ vaultseal delete github
 vaultseal change-password
 ```
 
+# Contact
+Contact me at [E-mail](mailto:allaj0412@gmail.com)
+              [Discord](https://discord.com/users/1071858026899841094)
+
+
 # Vault Location
 Secrets are stored in an encrypted vault.json in the current working directory.
 
